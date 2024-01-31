@@ -54,7 +54,14 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^3.0.1
+  flutter_native_splash: ^2.2.16
 
+flutter_native_splash:
+  color: "#071b5d"
+  image: images/flutter-logo.png
+  android: true
+  web: true
+  ios: true
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
