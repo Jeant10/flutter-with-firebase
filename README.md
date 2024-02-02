@@ -11,9 +11,10 @@
 
 ![Captura de pantalla 2024-01-31 145854](https://github.com/Jeant10/flutter-with-firebase/assets/74752987/1ce2bfef-c3f9-44c4-a02e-764efac80360)
 
+- Capturas de la app
+
 ![Screenshot_20240131-143845](https://github.com/Jeant10/flutter-with-firebase/assets/74752987/1bc9e04e-1d6d-4fba-ba3b-5a11eac70c4e)
 
-- Capturas de la app
 ![Screenshot_20240131-143747](https://github.com/Jeant10/flutter-with-firebase/assets/74752987/79ed1ef5-1aa2-443e-b20a-fce98abd8b4a)
 
 ![Screenshot_20240131-143741](https://github.com/Jeant10/flutter-with-firebase/assets/74752987/ae736fe5-75ca-4a27-8e9c-619b17d5fa98)
